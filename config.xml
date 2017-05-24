@@ -61,7 +61,7 @@
     
 
     <!-- Define app icon and splashscreen for each platform. -->
-    <icon src="icon-3.png" />
+    <icon src="icon-2.png" />
     <platform name="android">
         <icon   src="res/icons/android/32x32.png"               density="ldpi" />
         <icon   src="res/icons/android/48x48.png"               density="mdpi" />
